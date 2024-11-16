@@ -1,0 +1,30 @@
+.imgs{
+    
+    flex-direction: column;
+    width: 100vw;
+    line-height: 0;
+    text-decoration: none;
+    margin-bottom: 100px;
+
+}
+
+.imgs a img {
+    width: 313px;
+    height: 373px;
+    margin-bottom: 60px;
+    transition: all 0.4s ease;
+    border: 1px solid rgba(16, 15, 15, 0.2);
+}
+
+.img10, .img11, .img12 {
+    margin-bottom: 0;
+}
+
+.img1, .img2, .img3 {
+    margin-top: 60px;
+}
+
+.img1, .img2, .img4, .img5, .img7, .img8, .img10, .img11 {
+     margin-right: 40px;
+}
+
